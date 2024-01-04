@@ -5,7 +5,7 @@ When is making a change to a price, algorithm, or product worthwhile? Rather tha
 
 ## Important Links:
 
-[Syllabus](https://chocolate-timpani-df0.notion.site/BA472-Syllabus-and-Course-Resources-2024-cff5a9b6e0b0465288c4b858a787240b?pvs=4)
+[Syllabus](https://chocolate-timpani-df0.notion.site/BA830-Syllabus-and-Course-Resources-Winter-2024-be3f1e89397843e893eeb600770d043b?pvs=4)
 
 
 ### How to use this repository
