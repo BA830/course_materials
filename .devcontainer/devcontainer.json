@@ -1,11 +1,17 @@
 {
-    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "name": "Python 3",
+    // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+    "image": "mcr.microsoft.com/devcontainers/python:0-3.11-bullseye",
+    "features": {
+      "ghcr.io/devcontainers-contrib/features/coverage-py:2": {}
+    },
     "hostRequirements": {
       "cpus": 4
     },
     "waitFor": "onCreateCommand",
-    "updateContentCommand": "python3 -m pip install -r requirements.txt",
-    "postCreateCommand": "",
+    "postCreateCommand": "pip3 install --user -r requirements.txt",
+
+//    "updateContentCommand": "python3 -m pip install -r requirements.txt",
     "customizations": {
       "codespaces": {
         "openFiles": []
@@ -13,7 +19,8 @@
       "vscode": {
         "extensions": [
           "ms-toolsai.jupyter",
-          "ms-python.python"
+          "ms-python.python",
+          "streetsidesoftware.code-spell-checker"
         ]
       }
     }
