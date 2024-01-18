@@ -6,7 +6,7 @@ When is making a change to a price, algorithm, or product worthwhile? Rather tha
 ## Important Links:
 
 - [Syllabus](https://chocolate-timpani-df0.notion.site/BA830-Syllabus-and-Course-Resources-Winter-2024-be3f1e89397843e893eeb600770d043b?pvs=4)
-- [Gradescope](www.gradescope.com)
+- [Gradescope](https://www.gradescope.com)
 - [Guide to Github Codespaces](https://charoori.notion.site/Quick-Guide-to-GitHub-Codespaces-for-the-Business-Experimentation-Class-eb3653a132244a3aaa4042204fa566b8)
 
 ### How to use this repository
