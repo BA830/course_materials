@@ -2,7 +2,7 @@
 
 Due dates:
 
-- Finalize groups (5 to 6 people) (by Feb 12)
+- Finalize groups (4 to 6 people) (by Feb 12)
 - Proposal for experiment approved by me (by Feb 17 at the latest)
 - Have you run a pilot study? (by Feb 24 at the latest)
 - Have you run the experiment? (by Mar 1 at the latest)
