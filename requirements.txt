@@ -8,3 +8,4 @@ statsmodels==0.14.1
 stargazer==0.0.6
 plotnine==0.12.4
 lets_plot==4.2.0
+linearmodel==5.4
